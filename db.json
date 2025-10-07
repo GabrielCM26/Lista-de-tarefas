@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "nome": "Estudar Next.js",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "nome": "coisas",
+      "checked": false
+    }
+  ]
+}
